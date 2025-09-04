@@ -1,0 +1,25 @@
+Ett enkelt chattfönster med en message input i botten.
+https://www.shutterstock.com/search/desktop-chat?image_type=illustration
+
+
+
+En sidopanel till vänster som är så simpel så möjligt. En tab för chattar, både grupper och DMs. En tab för AI chatt. Mer som kan tillägas om man vill.
+Längst ner i sidopanelen ska det finnas en tab till inställningar och en tab för user profil.
+
+När man klickar in på chatt tabben så vill jag att en meny ska komma ut som är bredare. Där ska man kunna se alla chattar man är med i, både grupper och DMs.
+Likadant när mna klickar på AI tabben så ska alla föredetta chattar som man har haft med AI komma upp. Kanske måste begränsa detta till endast en chatt då en massa chattar troligtvis sänker prestandan.
+
+
+
+I själva chatten ska alla föredetta skrivna chattar vara sparade. Tanken är att de egenskrivna chattarna ska hålla sig på höger sida, medan de andra personen/personerna håller sig på vänster sida.
+I botten ska det finnas en message input. På vänster sida ska det finnas en knapp för att skicka filer och bilder. På höger sida ska det finnas en knapp för emojies och annat som kan tänkas läggas till.
+
+
+Inne på profil sidan så ska det finnas en profilbild som man ska kunna ladda upp och byta. Namn, biograf, intresse och sådant ska också finnas och kunna redigeras på sidan.
+
+
+
+
+Idéer:
+https://www.youtube.com/watch?v=IwF8nDqQh88
+https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda
