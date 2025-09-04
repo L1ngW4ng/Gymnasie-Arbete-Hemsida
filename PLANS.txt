@@ -1,0 +1,33 @@
+1. User authentication (logins, accounts)...
+    Fett sick, för detta är fett nice!
+
+2. File/iamge sharing in chat
+    Fett sick om jag lyckas få detta att fungera
+
+3. Group chats or channels
+    Jag har ju typ basically redan detta
+
+4. Emojis, reaction or message editing
+    Typ göra egna emojis och sånt, hade varit fett sick.
+    Message editing kan dock bli lite klabb.
+
+5. Persistent chat history (with a database)
+    Hade varit sick, måste dock lära dig om databasar då
+      och hur man använder de på riktigt
+
+6. Notiser för olästa meddelanden
+    Ja, rätt så självförklarligt
+
+7. Hosting a real-time server on a cloud platform
+    Typ yer, basically raspberry pi, men ja
+
+8. Security (e.g., message encryption)
+    Hade varit fett sick, och känns inte så trubbel att fixa
+
+9. Fixa en bättre GUI
+
+10. Gör en web version
+    Basically samma program fast gjort på webben med ReactJS och lite sånt
+
+11. Gör en app version???
+    Powerapps? Free app deploy service? Free android app? pkg download file?
