@@ -1,0 +1,39 @@
+KOM IHÅG:
+GÖR SÅ DU HAR EN FÄRDIG GRUND OCH BOTTEN
+SEN LÄGG TILL ONÖDIGA OCH COOLA GREJER
+JOBBA PÅ GRUNDEN OCH FÅ DEN FÄRDIG SÅ SNABBT SÅ MÖJLIGT
+SÅ DU INTE TRÖTTAR UT DIG OCH INTE PALLAR MER!
+
+
+1. Fix a nicer GUI
+2. User login
+3. Styled messages (colors, timestamps, emojis)
+4. User List Display
+5. DMs
+6. File Sharing
+7. Message editing/ deleting
+8. Message reactions
+9. Typing indicators (shows when someone is typing a message)
+10. Message encryption
+11. Anti spam
+12. Admin tools
+13. Usage stats
+
+14. Push-to-talk (VERY HARD)
+15. Dark mode / Light mode
+16. AI Chatbot
+
+
+
+Start with:
+Chat history
+User login system
+Basic user list in GUI
+
+Then expand into:
+Private messaging
+Groups
+File sharing
+
+Finish with polish:
+Dark mode, cool animations.
