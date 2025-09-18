@@ -1,3 +1,6 @@
 2025-09-04 13.00 - 15.00:
 Kollat och tänkt på designer till hur hemsidan ska se ut och layout och hur hela hemsidan ska fungera på en simpel nivå.
 Jag bytade också från att göra en applikation i Java till en hemsida i React för att göra det lättare med att koppla databas, backend, och enklare design.
+
+2025-09-18 13.00 - 15.00:
+Börjat på designen på första framsidan av min chatthemsida. Jag har också börjat på ett färgkonsept som jag ska ha på hemsidan. Mestadels grått, och sen lite blått. Det som kan vara blått är skicka meddelande knappen, och sidopannelen. 
