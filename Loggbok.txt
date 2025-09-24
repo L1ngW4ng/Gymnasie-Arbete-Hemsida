@@ -4,3 +4,6 @@ Jag bytade också från att göra en applikation i Java till en hemsida i React 
 
 2025-09-18 13.00 - 15.00:
 Börjat på designen på första framsidan av min chatthemsida. Jag har också börjat på ett färgkonsept som jag ska ha på hemsidan. Mestadels grått, och sen lite blått. Det som kan vara blått är skicka meddelande knappen, och sidopannelen. 
+
+2025-09-18 9.30 - 11.30:
+Börjat på chatt interfacen och gjort sidepanel, message input och send knapp. Har också valt att använda PostgreSQL och att ha en database per chatt. Så istället för en server skicka uppdatering till varje client, så uppdateras databasen och sen uppdaterar varje client databasen själv. 
