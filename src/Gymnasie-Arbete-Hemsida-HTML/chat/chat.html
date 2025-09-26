@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="side-tab">
+        <div class="tab">
+            <button class="tablinks" onclick="location.href='/chat/chat.html'" id="defaultOpen">Chattar</button>
+            <button class="tablinks" onclick="location.href='/profil/profil.html'">Profil</button>
+            <button class="tablinks" onclick="location.href='/inst/inställningar.html'">Inställningar</button>
+        </div>
+    </div>
+    <div class="message-box">
+
+    </div>
+    <div class="message-container">
+        <input type="text" name="Message" id="message-input" class="message-input" autocomplete="off" placeholder="Type a message...">
+        <button class="sendBtn" aria-label="Send">
+            <svg width="24" height="32" viewBox="0 0 24 32" fill="none" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="12" y1="27" x2="12" y2="5"></line>
+                <polyline points="5 12 12 5 19 12"></polyline>
+            </svg>
+        </button>
+    </div>    
+</body>
+</html>
