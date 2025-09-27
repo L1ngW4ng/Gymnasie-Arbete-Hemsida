@@ -1,5 +1,6 @@
 Ett enkelt chattfönster med en message input i botten.
 https://www.shutterstock.com/search/desktop-chat?image_type=illustration
+https://www.scaler.com/topics/chat-interface-project-css/
 
 
 
