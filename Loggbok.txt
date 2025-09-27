@@ -7,3 +7,6 @@ Börjat på designen på första framsidan av min chatthemsida. Jag har också b
 
 2025-09-18 9.30 - 11.30:
 Börjat på chatt interfacen och gjort sidepanel, message input och send knapp. Har också valt att använda PostgreSQL och att ha en database per chatt. Så istället för en server skicka uppdatering till varje client, så uppdateras databasen och sen uppdaterar varje client databasen själv. 
+
+2025-09-27 20.40 - 22.40:
+Börjat fundera på en första version utan databas och bara en client och server kommunikation. Också börjat undersöka hur WebSocket fungerar och börjat testa lite smått.
